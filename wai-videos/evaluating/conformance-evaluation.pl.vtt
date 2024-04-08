@@ -1,0 +1,108 @@
+﻿WEBVTT
+
+00:00:01.000 --> 00:00:03.900
+Ocena zgodności dostępności cyfrowej.
+
+00:00:04.720 --> 00:00:06.700
+Ocena zgodności określa
+
+00:00:06.800 --> 00:00:10.300
+jak dobrze Twoje treści 
+spełniają określone standardy dostępności,
+
+00:00:10.620 --> 00:00:16.480
+takie jak „Wytyczne W3C dla dostępności treści internetowych”
+lub w skrócie „WCAG”.
+
+00:00:18.600 --> 00:00:21.220
+Często chcesz przeprowadzić ocenę zgodności:
+
+00:00:21.320 --> 00:00:24.240
+jako finalną kontrolę przed wypuszczeniem produktu na rynek,
+
+00:00:24.440 --> 00:00:29.060
+aby zapewnić informację potencjalnym nabywcom produktu,
+
+00:00:29.580 --> 00:00:33.780
+aby regularnie monitorować dostępność
+swojej witryny internetowej,
+
+00:00:34.170 --> 00:00:36.100
+przed zakupem produktu,
+
+00:00:36.100 --> 00:00:39.640
+oraz gdy zaczynasz wdrażać dostępność,
+
+00:00:39.760 --> 00:00:43.940
+aby uzyskać listę problemów z dostępnością, 
+którymi musisz się zająć.
+
+00:00:44.400 --> 00:00:48.180
+Aby przeprowadzić skuteczną ocenę zgodności,
+potrzebujesz wiedzy specjalistycznej
+
+00:00:48.240 --> 00:00:50.160
+o standardach dostępności,
+
+00:00:50.260 --> 00:00:52.960
+o dostępnym projektowaniu i tworzeniu stron internetowych,
+
+00:00:53.060 --> 00:00:55.080
+o technologiach wspomagających,
+
+00:00:55.280 --> 00:00:58.320
+oraz o tym, w jaki sposób osoby z niepełnosprawnościami 
+korzystają z Internetu.
+
+00:00:58.480 --> 00:01:03.390
+Prawdopodobnie zechcesz również używać
+narzędzi oceniających, aby uzyskać większą wydajność.
+
+00:01:03.399 --> 00:01:08.351
+„WCAG-EM”, „Metodologia oceny zgodności witryn
+internetowych z WCAG”,
+
+00:01:08.350 --> 00:01:13.660
+zapewnia strukturę procesu oceny.
+
+00:01:14.290 --> 00:01:16.220
+Opisuje proces mający na celu:
+
+00:01:16.340 --> 00:01:18.980
+określenie zakresu oceny,
+
+00:01:19.040 --> 00:01:21.700
+poznanie zasobów witryny,
+
+00:01:21.700 --> 00:01:25.880
+wybór reprezentatywnej próbki
+stron internetowych z witryny,
+
+00:01:25.880 --> 00:01:29.100
+ocenę wybranej próbki
+
+00:01:29.240 --> 00:01:32.220
+i przedstawienie wyników oceny.
+
+00:01:32.220 --> 00:01:38.020
+WCAG-EM zaleca też włączenie do procesu oceny 
+użytkowników z niepełnosprawnościami,
+
+00:01:38.100 --> 00:01:43.630
+aby pomóc Ci uwzględnić rzeczywiste doświadczenia
+użytkowników witryny.
+
+00:01:43.630 --> 00:01:48.760
+Narzędzie „Generator raportów WCAG-EM” o otwartym kodzie źródłowym  
+pomaga postępować zgodnie z metodologią,
+
+00:01:48.860 --> 00:01:53.570
+rejestrować wyniki i pobrać raport z oceny.
+
+00:01:53.570 --> 00:01:58.960
+Dostępność internetowa: 
+niezbędna dla niektórych, przydatna dla wszystkich.
+
+00:01:58.960 --> 00:02:08.520
+Aby uzyskać więcej informacji o ocenie zgodności,
+odwiedź stronę w3.org/WAI/evaluation
